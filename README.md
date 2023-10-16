@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raahulm1
+- 👋 Hi, I’m Rahul M
 - 👀 I’m interested in coding 
 - 🌱 I’m currently pursuing MCA 
   
